@@ -1,8 +1,8 @@
 ## Olá, eu sou Bruno Lobregat e estou trabalhando atualmente como Technical Support Representative e estudando linguagem de programação Web para buscar novas soluções e melhorar meu conhecimento na área.
 <div align="center">
   <a href="https://github.com/Brulobregat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brulobregat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brulobregat&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brulobregat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brulobregat&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Brun-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
