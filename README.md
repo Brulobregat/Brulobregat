@@ -16,7 +16,7 @@
   <img align="center" alt="Brun-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brun-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <!-- <img align="right" alt="Brun-pic" height="150" style="border-radius:50px;" src="linkdogif"> -->
+  <img align="right" alt="Brun-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/oMUMfYD.gif">
 </div>
   
   ##
