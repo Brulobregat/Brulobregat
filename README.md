@@ -3,6 +3,7 @@
   <a href="https://github.com/Brulobregat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brulobregat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brulobregat&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img align="right" alt="gif-the-office" height="100" style="border-radius:50px;" src="https://i.imgur.com/oMUMfYD.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Brun-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +17,6 @@
   <img align="center" alt="Brun-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brun-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img align="right" alt="Brun-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/oMUMfYD.gif">
 </div>
   
   ##
