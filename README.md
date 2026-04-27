@@ -30,6 +30,4 @@
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=brulobregat.visitor-badge&left_text=My%20Page%20Visitors)
   
-  ![Snake animation](https://github.com/Brulobregat/Brulobregat/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
