@@ -11,14 +11,14 @@
   <img align="center" alt="Brun-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Brun-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   -->
-  <table border="0">
+  <table cellspacing="0" cellpadding="0">
   <tr><td><img alt="Brun-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
   <td><img alt="Brun-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
   <td><img alt="Brun-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
   <td><img alt="Brun-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
   </tr>
   </table border="0"><br>
-  <table>
+  <table cellspacing="0" cellpadding="0">
   <tr><td><img align="right" alt="gif-the-office" height="100" style="border-radius:50px;" src="https://i.imgur.com/oMUMfYD.gif"></td></tr>
 </div>
   
